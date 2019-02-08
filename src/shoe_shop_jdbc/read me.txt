@@ -1,0 +1,2 @@
+Skriv in namn och lösenord i 
+Shoe_shop_JDBC_inlämningsEx/src/shoe_shop_jdbc/myP.properties för att kunna köra programmet!
